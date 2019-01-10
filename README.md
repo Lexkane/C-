@@ -1,1 +1,1 @@
-# Some C++ coding and exloration
+# Some C++ coding and exploration
