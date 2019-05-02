@@ -1,1 +1,0 @@
-Cpp Shop Application with CRUD functional
