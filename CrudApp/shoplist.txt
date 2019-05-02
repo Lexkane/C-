@@ -1,0 +1,6 @@
+Apple   35235 
+Ferrari  34252 
+Microsoft  23523 
+Motorolla  3124 
+Samsung 13415 
+Metro  323 
