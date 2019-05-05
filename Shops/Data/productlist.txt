@@ -1,0 +1,2 @@
+Name  Aks Type 12 Date 123  Measurement   124  Checknumber   124  Price   12  Quantity   4  TotalPrice   3252, 
+
