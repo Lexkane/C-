@@ -1,0 +1,7 @@
+   1      Zander_Kane	   property_insurance 		2017.04.25.  
+   2        Jakson_Jacobi		real_estate_insurance 		2020.09.29.
+   3    Vincent_Osborn	real_estate_insurance  		2021.05.20.
+   4       Jake_Kalahn		    medical_insurance		2017.05.16.
+   5         Victor_Aver		      AXA_insurance		2020.09.02.
+   6         John_Nickson	          IBS_insurance		2021.11.22.
+ 
